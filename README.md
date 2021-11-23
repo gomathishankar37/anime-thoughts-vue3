@@ -1,5 +1,6 @@
 # anime-thoughts
 
+- A Simple Anime Quote Generator using Vue 3 
 ## Project setup
 ```
 npm install
